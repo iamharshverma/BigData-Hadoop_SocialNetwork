@@ -1,5 +1,6 @@
 
-# BigData_Hadoop_SocialNetwork : Analyze Social Network, Using hadoop/mapreduce to analyze social network data
+# BigData_Hadoop_SocialNetwork : Analyze Social Network 
+Using hadoop/mapreduce to analyze social network data
 
 MapReduce program in Hadoop that implements a simple “Mutual/Common friend list of two friends". The key idea is that if two people are friend then they have a lot of mutual/common friends. This program will find the common/mutual friend list for them.
 
@@ -19,4 +20,5 @@ Output: The output contain one line per user in the following format: <User_A>, 
 
 ->> Using reduce-side join and job chaining: Step 1: Calculate the average age of the direct friends of each user. Step 2: Sort the users by the average age from step 1 in descending order. Step 3. Output the tail 15 (15 lowest averages) users from step 2 with their address and the calculated average age. Sample output: User A, 1000 Anderson blvd, Dallas, TX, average age of direct friends.
 
-ReadMePDF.pdf
+# Doc Description in Details:
+![description](/screenshot/1.png)
