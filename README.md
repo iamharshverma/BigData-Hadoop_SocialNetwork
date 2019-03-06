@@ -22,3 +22,8 @@ Output: The output contain one line per user in the following format: <User_A>, 
 
 # Doc Description in Details:
 ![description](/screenshot/1.png)
+![description](/screenshot/2.png)
+![description](/screenshot/3.png)
+![description](/screenshot/4.png)
+
+Feel free to contact for more details on this.
